@@ -1,0 +1,65 @@
+.form-control
+{
+    width: 50%;
+    margin: auto;
+    border: 1px solid black;
+}
+body
+{
+    text-align: center;
+    background-color:snow;
+    font-family: 'Noto Sans Tamil', sans-serif;
+    background-image: url(https://cdnaws.sharechat.com/%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%B5%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AF%81%E0%AE%B5%E0%AE%B0%E0%AF%8D_8f7999fb-93f7-443d-b9f4-41c0781773cd-1454399e-d79c-456a-a79b-9c825dea2702_cmprsd_40.jpg);
+    
+    background-repeat: no-repeat;
+    background-attachment:scroll;
+    background-size: cover;
+   
+}
+h1
+{
+    margin-top: 25px;
+    color:sandybrown;
+}
+button
+{
+    margin-top: 10px;
+}
+.card
+{
+    margin: 10px auto;   /*to keep the card in center of the page */
+    padding: 5px;
+    background-color: aliceblue;
+}
+img
+{
+    width: auto;
+    height: auto;
+    float: left;
+    margin: 5px 15px;
+}
+.card-text1,.card-text2
+{
+    padding: 5px 0px;
+    text-align: left;
+}
+.card-text3
+{
+    padding: 5px;
+    text-align: left;
+    overflow-x: auto;       /*used for responsive display of lines whether to add scroll or not depending upon the page's height*/
+}
+.kuralNumber
+{
+    text-align: left;
+}
+#searchbutton
+{
+    border: 1px solid black;
+    background-color:#80669d;
+    color: white;
+}   
+mark
+{
+    background-color: yellow;
+}
